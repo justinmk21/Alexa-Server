@@ -10,3 +10,4 @@ generativeai
 gunicorn
 decouple
 huggingface-hub
+uvicorn
