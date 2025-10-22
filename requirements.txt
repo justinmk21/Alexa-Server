@@ -11,3 +11,4 @@ gunicorn
 decouple
 huggingface-hub
 uvicorn
+google-generativeai
