@@ -6,3 +6,6 @@ groq
 pillow
 google
 cloudunary
+generativeai==0.0.1
+gunicorn==23.0.0
+decouple==0.0.7
