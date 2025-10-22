@@ -1,14 +1,12 @@
 Django
 djangorestframework
 django-cors-headers
-dotenv
+python-dotenv
 groq
 pillow
 google
-cloudunary
+cloudinary
 generativeai
 gunicorn
 decouple
-python-dotenv
-Pillow
 huggingface-hub
