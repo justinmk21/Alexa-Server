@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-v(t*n$uyy3*&nt8tinlzsd9f_ob3$n1yedxq#unjo&32hw8n#_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['alexa-server-0r8p.onrender.com']
 
 load_dotenv()
 
